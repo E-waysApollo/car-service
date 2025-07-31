@@ -1,0 +1,16 @@
+# Go
+bin/
+vendor/
+
+# Node.js
+node_modules/
+dist/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Бинарные файлы
+*.exe
+*.db
